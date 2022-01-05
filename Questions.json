@@ -1,0 +1,136 @@
+[
+    {
+        "question": "What is the speed of light?",
+        "subject": "Physics",
+        "Topic": "Waves",
+        "difficulty": "Easy",
+        "Marks": 5
+    },
+    {
+        "question": "A circle has an area of 64π ft.2. What is the circumference of the circle?",
+        "subject": "Math",
+        "Topic": "Shapes",
+        "difficulty": "Hard",
+        "Marks": 15
+    },
+    {
+        "question": "If 2w/3 + 3 = 7, what is the value of 3/2w?",
+        "subject": "Math",
+        "Topic": "Unknown",
+        "difficulty": "Easy",
+        "Marks": 5
+    },
+    {
+        "question": "If the radius of the circle is 4 units, what is the size of the shaded area?",
+        "subject": "Math",
+        "Topic": "Circle",
+        "difficulty": "Medium",
+        "Marks": 10
+    },
+    {
+        "question": "Steve draws a polygon with 12 sides. What is the sum of the measures of the interior angles of Steve’s polygon??",
+        "subject": "Math",
+        "Topic": "Circle",
+        "difficulty": "Medium",
+        "Marks": 10
+    },
+    {
+        "question": "What is the speed of electromagnetic force?",
+        "subject": "Physics",
+        "Topic": "Waves",
+        "difficulty": "Easy",
+        "Marks": 5
+    },
+    {
+        "question": "What is the molecular mass of an atom?",
+        "subject": "Chemistry",
+        "Topic": "Atom",
+        "difficulty": "Easy",
+        "Marks": 5
+    },
+    {
+        "question": "What is a methane?",
+        "subject": "Chemistry",
+        "Topic": "Organic chemistry",
+        "difficulty": "Hard",
+        "Marks": 15
+    },
+    {
+        "question": "What is a hard water?",
+        "subject": "Chemistry",
+        "Topic": "Water",
+        "difficulty": "Medium",
+        "Marks": 10
+    },
+    {
+        "question": "What is acceleration?",
+        "subject": "Physics",
+        "Topic": "Waves",
+        "difficulty": "Easy",
+        "Marks": 5
+    },
+    {
+        "question": "What is the formula for velocity?",
+        "subject": "Physics",
+        "Topic": "Velocity",
+        "difficulty": "Medium",
+        "Marks": 10
+    },
+    {
+        "question": "What is the speed of light?",
+        "subject": "Physics",
+        "Topic": "Waves",
+        "difficulty": "Easy",
+        "Marks": 5
+    },
+    {
+        "question": "What is the slope of a line segment with endpoints at (–1,2) and (1,10)?",
+        "subject": "Math",
+        "Topic": "Line",
+        "difficulty": "Medium",
+        "Marks": 10
+    },
+    {
+        "question": "A die is thrown and a card is selected at random from a deck of 52 playing cards. Find the probability of getting an even number on the die and a spade card?",
+        "subject": "Math",
+        "Topic": "Probability",
+        "difficulty": "Hard",
+        "Marks": 15
+    },
+    {
+        "question": "What is the distance between the points (–7,–4) and (5,12)?",
+        "subject": "Math",
+        "Topic": "Segment",
+        "difficulty": "Easy",
+        "Marks": 5
+    },
+    {
+        "question": "What is the speed of light?",
+        "subject": "Physics",
+        "Topic": "Waves",
+        "difficulty": "Hard",
+        "Marks": 15
+    },
+    {
+        "question": "What is the product of (x – 3)(x + 7)?",
+        "subject": "Math",
+        "Topic": "Waves",
+        "difficulty": "Hard",
+        "Marks": 15
+    },
+    {
+        "question": "If three more than one-fourth of a number is three less than the number, what is the value of the number?",
+        "subject": "Math",
+        "Topic": "Circle",
+        "difficulty": "Medium",
+        "Marks": 10
+    },
+    {
+        "question": "If five less than three times a number is equal to 10, what is the value of that number?",
+        "subject": "Math",
+        "Topic": "Circle",
+        "difficulty": "Medium",
+        "Marks": 10
+    }
+
+]
